@@ -1,4 +1,4 @@
-Example2 output:
+**Example2 output:**
 ```
 c1Count: 514
 c2Clount: 487
@@ -12,4 +12,4 @@ c2Clount: 487
 
 4. If there is no default, the code block will be blocked, and there is a case to pass the evaluation; otherwise it will block.
 
-Always remember: Don't communicate by sharing memory, share memory by communicating.
+**Always remember: Don't communicate by sharing memory, share memory by communicating.**
