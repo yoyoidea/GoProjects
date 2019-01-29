@@ -10,4 +10,6 @@ c2Clount: 487
 
 3. If the case statement outside of default has not passed the evaluation, then execute the statement in default;
 
-4. If there is no default, the code block will be blocked, and there is a case to pass the evaluation; otherwise it will block
+4. If there is no default, the code block will be blocked, and there is a case to pass the evaluation; otherwise it will block.
+
+Always remember: Don't communicate by sharing memory, share memory by communicating.
