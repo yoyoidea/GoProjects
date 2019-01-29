@@ -3,10 +3,11 @@ Example2 output:
 c1Count: 514
 c2Clount: 487
 ```
-1.除 default 外，如果只有一个 case 语句评估通过，那么就执行这个case里的语句；
 
-2.除 default 外，如果有多个 case 语句评估通过，那么通过伪随机的方式随机选一个；
+1. Except for default, if only one case statement evaluates, then the statement in this case is executed;
 
-3.如果 default 外的 case 语句都没有通过评估，那么执行 default 里的语句；
+2. In addition to default, if there are multiple case statements evaluated, then randomly select one by pseudo-random means;
 
-4.如果没有 default，那么 代码块会被阻塞，指导有一个 case 通过评估；否则一直阻塞
+3. If the case statement outside of default has not passed the evaluation, then execute the statement in default;
+
+4. If there is no default, the code block will be blocked, and there is a case to pass the evaluation; otherwise it will block
